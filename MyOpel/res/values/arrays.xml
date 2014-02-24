@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2012 Steven Rudenko
+  
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+  
+    http://www.apache.org/licenses/LICENSE-2.0
+  
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+
+    <!-- Actions -->
+    <array name="actions_icons">
+        <item>@null</item>
+        <item>@drawable/ic_action_about</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_action_effects</item>
+        <item>@null</item>
+        <item>@drawable/ic_link_evernote</item>
+        <item>@drawable/ic_link_facebook</item>
+        </array>
+
+    <integer-array name="actions_disconnected_visibility">
+        <item>@integer/show_everytime</item>
+        <item>@integer/show_everytime</item>
+        <item>@integer/only_while_connected</item>
+        <item>@integer/only_while_connected</item>
+        <item>@integer/only_while_connected</item>
+        <item>@integer/only_while_connected</item>
+        <item>@integer/only_while_connected</item>
+        </integer-array>
+        
+    <string-array name="actions_names">
+        <item>Nastavenie</item>
+        <item>Pripojenie</item>
+        <item>@string/action_sandbox</item>
+        <item>@string/action_effects</item>
+        <item>@string/action_bookmarks</item>
+        <item>Farebná hudba</item>
+        <item>Aktualizácia</item>
+    </string-array>
+    <string-array name="actions_links">
+        <item>category://delimiter</item>
+        <item>settings://connection</item>
+        <item>settings://sandbox</item>
+        <item>settings://mode</item>
+        <item>category://delimiter</item>
+        <item>settings://music</item>
+        <item>settings://firmware</item>
+    </string-array>
+
+    <!-- Settings arrays -->
+    <string-array name="spacing_types">
+        <item>Right Offset (RO)</item>
+        <item>Actions Width (AW)</item>
+    </string-array>
+    <string-array name="spacing_types_short">
+        <item>RO</item>
+        <item>AW</item>
+    </string-array>
+
+    <integer-array name="spacing_types_values">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+
+    <string-array name="width_strings">
+        <item>0</item>
+        <item>8</item>
+        <item>16</item>
+        <item>24</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
+        <item>96</item>
+        <item>128</item>
+    </string-array>
+
+    <integer-array name="width_values">
+        <item>0</item>
+        <item>8</item>
+        <item>16</item>
+        <item>24</item>
+        <item>32</item>
+        <item>48</item>
+        <item>64</item>
+        <item>96</item>
+        <item>128</item>
+    </integer-array>
+
+    <string-array name="fade_types">
+        <item>None</item>
+        <item>Actions</item>
+        <item>Content</item>
+        <item>Both</item>
+    </string-array>
+
+    <integer-array name="fade_types_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="fade_max_value_strings">
+        <item>0</item>
+        <item>64</item>
+        <item>128</item>
+        <item>170</item>
+        <item>255</item>
+    </string-array>
+
+    <integer-array name="fade_max_value_values">
+        <item>0</item>
+        <item>64</item>
+        <item>128</item>
+        <item>170</item>
+        <item>255</item>
+    </integer-array>
+
+    <string-array name="swiping_types">
+        <item>All</item>
+        <item>Edge</item>
+    </string-array>
+
+    <integer-array name="swiping_types_values">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+
+    <string-array name="fling_duration_strings">
+        <item>0</item>
+        <item>900</item>
+        <item>1500</item>
+        <item>3000</item>
+    </string-array>
+
+    <integer-array name="fling_duration_values">
+        <item>0</item>
+        <item>900</item>
+        <item>1500</item>
+        <item>3000</item>
+    </integer-array>
+
+</resources>

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    
+	<item
+	    android:id="@+id/actionbar_ready"
+	    android:icon="@drawable/ic_launcher_opel"
+	    android:showAsAction="always"
+	    app:showAsAction="always"
+	    android:title="@string/ready"/>    
+    
+</menu>

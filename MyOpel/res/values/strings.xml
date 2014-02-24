@@ -1,0 +1,84 @@
+<resources>
+
+    <string name="app_name">My Opel</string>
+    
+    <string name="info_disconnected">Odpojené</string>
+    <string name="info_bt_not_enabled_leaving">Bluetooth nebol zapnutý</string>
+    
+    <string name="no_device">Žiadne zariadenie</string>
+    
+    <string name="settings_connect"><b>Pripojiť</b> k BCU</string>
+    <string name="settings_disconnect"><b>Odpojiť</b> od BCU</string>
+    
+    <string name="mode_title">Mód podsvietenia</string>
+    <string name="mode_solid">Solid</string>
+    <string name="mode_fade">Fading</string>
+    <string name="mode_rainbow">Rainbow</string>
+    
+    <string name="ready">Pripravený</string>
+    
+
+    <!-- Setting strings -->
+    <string name="pref_spacing">Spacing settings</string>
+    <string name="pref_spacing_type">Spacing type</string>
+    <string name="pref_spacing_width">Spacing width</string>
+    <string name="pref_spacing_actions">Actions spacing width</string>
+    <string name="pref_shadow">Shadow settings</string>
+    <string name="pref_show_shadow">Show shadow</string>
+    <string name="pref_shadow_width">Shadow width</string>
+    <string name="pref_fade">Fade settings</string>
+    <string name="pref_fade_type">Fade type</string>
+    <string name="pref_fade_max_value">Fade max value</string>
+    <string name="pref_swiping">Swiping settings</string>
+    <string name="pref_swiping_type">Swiping type</string>
+    <string name="pref_swiping_edge_width">Swiping edge width</string>
+    <string name="pref_other">Other</string>
+    <string name="pref_other_fling_duration">Fling duration</string>
+    
+    <!-- Action titles -->
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="action_sandbox">Sandbox</string>
+    <string name="action_mode">Módy</string>
+    <string name="action_effects">Effects</string>
+    <string name="action_bookmarks">Bookmarks</string>
+    
+    <!-- Effects -->
+    <string name="effect_parallax">Parallax</string>
+    <string name="effect_replace">Replace</string>
+    <string name="effect_alpha">Alpha</string>
+    <string name="effect_duration">Duration</string>
+    <string name="effect_bounce">Bounce</string>
+    <string name="effect_overshot">Overshot</string>
+    <!-- Effects content strings -->
+    <string name="effect_content_actions_xml">Actions effect animation XML</string>
+    <string name="effect_content_content_xml">Content effect animation XML</string>
+    <string name="corsa_image">Opel Corsa</string>
+    <string name="bt_discover">Hľadaj</string>
+    <string name="device">Zariadenie</string>
+    <string name="mac_address">MAC adresa</string>
+    <string name="bt_connect">Pripojiť</string>
+    <string name="info_discovery">Hľadanie nových zariadení</string>
+    <string name="speed_title">Rýchlosť animácie</string>
+    <string name="infoUploadFirmware">Aktualizovať BCU</string>
+    <string name="info_options">Možnosti</string>
+    <string name="info_disable_door_logic">Zakázať</string>
+    <string name="info_enable_door_logic">Povoliť</string>
+    <string name="info_door_logic">Logika odomykania</string>
+    <string name="info_blink_count">Triger odomykania</string>
+    <string name="info_2_blinks">2 zablikania</string>
+    <string name="info_3_blinks">3 zablikania</string>
+    <string name="info_bt_disconnect">Odpojiť</string>
+    <string name="info_disconnection_bt_name">Názov</string>
+    <string name="remember_connection">Zapamatať pripojenie</string>
+    <string name="info_version">Verzia systému</string>
+    <string name="choose_file">Zvoliť súbor</string>
+    <string name="info_no_file">Nebol vybraný žiadny súbor</string>
+    <string name="firmware_warning"><b>Varovanie:</b>\nPočas aktualizácie prosím nevypínajte aplikáciu (uvedenie aplikácie na pozadie je v prípade dostatku pamäte možné). V prípade prerušenia spojenia sa uvedie zariadenie do núdzového režimu, v ktorom bude možné firmware dodatočne aktualizovať. Všetky ostatné funkcionality sú v núdzovom režime neprístupné.</string>
+    <string name="firmware_update">Aktualizácia zariadenia</string>
+    <string name="percentage_done">%1d%% hotovo</string>
+    <string name="choose_music_file">Zvoliť pesničku</string>
+    <string name="choose_musiccontrol_file">Zvoliť súbor ovládania</string>
+    <string name="play">Play !</string>
+    
+</resources>
